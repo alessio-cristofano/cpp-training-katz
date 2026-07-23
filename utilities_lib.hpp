@@ -1,0 +1,23 @@
+#include <algorithm>
+#include <iostream>
+#include <fstream>
+#include <cmath>
+#include <vector>
+#include <string>
+#include "./helpers.hpp"
+
+using std::abs;
+using std::atan;
+using std::cin;
+using std::cos;
+using std::cout;
+using std::endl;
+using std::exception;
+using std::ifstream;
+using std::ofstream;
+using std::pow;
+using std::sin;
+using std::sqrt;
+using std::stof;
+using std::string;
+using std::vector;

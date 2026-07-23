@@ -1,0 +1,4 @@
+set terminal qt
+set datafile separator ","
+set size ratio -1
+plot  'AFOIL2.DAT' u 1:2 w l
